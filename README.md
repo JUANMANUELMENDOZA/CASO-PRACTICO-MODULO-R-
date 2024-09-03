@@ -8,18 +8,18 @@ Realiza un análisis exploratorio en R, del conjunto de datos Titanic para compr
 
 ## Detalle de las columnas
 
-● PassangerId - Identificador único del pasajero.
-● Survived - Indicada si el pasajero sobrevivió o no (Yes, No).
-● Pclass - Nivel socioeconómico (Upper Class, Middle Class, Lower Class).
-● Name - Nombre del pasajero.
-● Sex - Género del pasajero.
-● Age - Edad del pasajero.
-● SibSp - Número total de herman@s y espos@s del pasajero.
-● Parch - Número total de padres e hijos del pasajero.
-● Ticket - Número de ticket del pasajero.
-● Fare - Costo del ticket.
-● Cabin - Número de cabina del pasajero (puede contener carácteres vacíos).
-● Embarked - Puerto de embarcación del pasajero.
+1. PassangerId - Identificador único del pasajero.
+2. Survived - Indicada si el pasajero sobrevivió o no (Yes, No).
+3. Pclass - Nivel socioeconómico (Upper Class, Middle Class, Lower Class).
+4. Name - Nombre del pasajero.
+5. Sex - Género del pasajero.
+6. Age - Edad del pasajero.
+7. SibSp - Número total de herman@s y espos@s del pasajero.
+8. Parch - Número total de padres e hijos del pasajero.
+9. Ticket - Número de ticket del pasajero.
+10. Fare - Costo del ticket.
+11. Cabin - Número de cabina del pasajero (puede contener carácteres vacíos).
+12. Embarked - Puerto de embarcación del pasajero.
 
 ## Pasos a seguir
 
@@ -38,6 +38,7 @@ Confía en tu instinto - sean 2, 3 o todas las columnas las que analizaste... no
 
 ## RESULTADOS
 
+Con base a la exploración de la base de datos, a continuación se muestra los resulktados obtenidos con str, summary y ColSums. Cabe mencionar que, datos básicos mostrados, serán obtenidos con la programación del código más adelante.
 
 ![STR](https://github.com/user-attachments/assets/4914541c-86e8-4ed7-9b20-e60aa685bf2b)
 
