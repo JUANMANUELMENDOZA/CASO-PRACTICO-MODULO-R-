@@ -49,7 +49,7 @@ Confía en tu instinto - sean 2, 3 o todas las columnas las que analizaste... no
 ![COLSUMS](https://github.com/user-attachments/assets/4dc296bd-987d-41e1-b13f-af37a3fd719c)
 
 
-2. Del análisis realizado podemoas concluir que,  en total abordaron 418 pasajeros en los siguientes puertos: Southampton = 270, Cherbourg = 102 y Queenstown = 46
+2. Del análisis realizado podemoas concluir que,  en total abordaron 418 pasajeros en los siguientes puertos: Southampton = 270, Cherbourg = 102 y Queenstown = 46. Lo anterior se muestra en la siguiente gráfica. Es importante señalar que, en una gráfica adicional se muestra el nivel socioeconomico de los pasajeros con base a su alojamiento. Upperclass = 107,  Middleclass = 93 y Lowerclass = 218. En esta última gráfica tambien se muestran los sobrevivientes por cada nivel socioeconomico, destacando que fueron 152 (36% del total) sobrevivientes todas mujeres y 266 No sobrevivieron al accidente. Cabe mencionar que se desconoce datos de la tripulación.
 
 ![Captura de Pantalla 2024-09-02 a la(s) 10 04 05 p m](https://github.com/user-attachments/assets/6e4ce7a5-0223-4b02-bd45-05226d7d8b0b)
 
@@ -57,12 +57,16 @@ Confía en tu instinto - sean 2, 3 o todas las columnas las que analizaste... no
 ![Captura de Pantalla 2024-09-02 a la(s) 10 02 54 p m](https://github.com/user-attachments/assets/11415206-0dab-408b-b5b2-278176c1affe)
 
 
-![Captura de Pantalla 2024-09-02 a la(s) 10 03 08 p m](https://github.com/user-attachments/assets/f4b9c0df-698a-4b39-8713-f29f3b5c45f5)
 
-
+3. Asimismo, mediante el siguiente histograma se muestra como se distribuye la población de pasajeros con base a su edad. Podemos observar que en el rango de 18 a 45 años se concentra aproximadamente el 57% de los pasajeros. Es importante resaltar que, algunos pasajeros no indican la edad. Adicionalmente muestra la siguiente gráfica que son 152 mujeres y 266 hombres.
 
 
 ![Captura de Pantalla 2024-09-02 a la(s) 10 04 35 p m](https://github.com/user-attachments/assets/ef3c0d2c-a01d-4b87-bc18-370588aca46b)
+
+![Captura de Pantalla 2024-09-02 a la(s) 10 03 08 p m](https://github.com/user-attachments/assets/f4b9c0df-698a-4b39-8713-f29f3b5c45f5)
+
+
+3. 
 
 
 ![Captura de Pantalla 2024-09-02 a la(s) 10 04 52 p m](https://github.com/user-attachments/assets/20ed17ec-cb60-429f-813b-3d9bf270c24e)
