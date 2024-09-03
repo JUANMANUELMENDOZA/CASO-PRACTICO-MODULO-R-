@@ -49,6 +49,22 @@ Confía en tu instinto - sean 2, 3 o todas las columnas las que analizaste... no
 
 
 
+![Captura de Pantalla 2024-09-02 a la(s) 10 02 54 p m](https://github.com/user-attachments/assets/11415206-0dab-408b-b5b2-278176c1affe)
+
+
+![Captura de Pantalla 2024-09-02 a la(s) 10 03 08 p m](https://github.com/user-attachments/assets/f4b9c0df-698a-4b39-8713-f29f3b5c45f5)
+
+
+![Captura de Pantalla 2024-09-02 a la(s) 10 04 05 p m](https://github.com/user-attachments/assets/6e4ce7a5-0223-4b02-bd45-05226d7d8b0b)
+
+
+![Captura de Pantalla 2024-09-02 a la(s) 10 04 35 p m](https://github.com/user-attachments/assets/ef3c0d2c-a01d-4b87-bc18-370588aca46b)
+
+
+![Captura de Pantalla 2024-09-02 a la(s) 10 04 52 p m](https://github.com/user-attachments/assets/20ed17ec-cb60-429f-813b-3d9bf270c24e)
+
+
+![Captura de Pantalla 2024-09-02 a la(s) 10 06 53 p m](https://github.com/user-attachments/assets/ce9d4342-3781-46b4-916f-3d4ef271d67b)
 
 
 
