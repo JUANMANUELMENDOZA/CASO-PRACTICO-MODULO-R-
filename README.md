@@ -38,7 +38,7 @@ Confía en tu instinto - sean 2, 3 o todas las columnas las que analizaste... no
 
 ## RESULTADOS
 
-Con base a la exploración de la base de datos, a continuación se muestra los resulktados obtenidos con str, summary y ColSums. Cabe mencionar que, datos básicos mostrados, serán obtenidos con la programación del código más adelante.
+1. Con base a la exploración de la base de datos, a continuación se muestran los resultados obtenidos con las funciones  str, summary y colSums. Cabe mencionar que, datos básicos mostrados en summary, serán obtenidos con la programación del código más adelante.
 
 ![STR](https://github.com/user-attachments/assets/4914541c-86e8-4ed7-9b20-e60aa685bf2b)
 
@@ -49,6 +49,10 @@ Con base a la exploración de la base de datos, a continuación se muestra los r
 ![COLSUMS](https://github.com/user-attachments/assets/4dc296bd-987d-41e1-b13f-af37a3fd719c)
 
 
+2. Del análisis realizado podemoas concluir que,  en total abordaron 418 pasajeros en los siguientes puertos: Southampton = 270, Cherbourg = 102 y Queenstown = 46
+
+![Captura de Pantalla 2024-09-02 a la(s) 10 04 05 p m](https://github.com/user-attachments/assets/6e4ce7a5-0223-4b02-bd45-05226d7d8b0b)
+
 
 ![Captura de Pantalla 2024-09-02 a la(s) 10 02 54 p m](https://github.com/user-attachments/assets/11415206-0dab-408b-b5b2-278176c1affe)
 
@@ -56,7 +60,6 @@ Con base a la exploración de la base de datos, a continuación se muestra los r
 ![Captura de Pantalla 2024-09-02 a la(s) 10 03 08 p m](https://github.com/user-attachments/assets/f4b9c0df-698a-4b39-8713-f29f3b5c45f5)
 
 
-![Captura de Pantalla 2024-09-02 a la(s) 10 04 05 p m](https://github.com/user-attachments/assets/6e4ce7a5-0223-4b02-bd45-05226d7d8b0b)
 
 
 ![Captura de Pantalla 2024-09-02 a la(s) 10 04 35 p m](https://github.com/user-attachments/assets/ef3c0d2c-a01d-4b87-bc18-370588aca46b)
